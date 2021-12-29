@@ -18,7 +18,7 @@
 
 <div align = "center">
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckishorepandian&show_icons=true&locale=en&layout=compact&theme=dark" alt="ckishorepandian" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckishorepandian&show_icons=true&locale=en&layout=compact&theme=dark" alt="ckishorepandian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckishorepandian&show_icons=true&locale=en&theme=dark" alt="ckishorepandian" /></p>
 
